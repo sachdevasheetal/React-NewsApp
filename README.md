@@ -16,3 +16,10 @@ or via Email. For each article, after expanding, the user can even add comments 
 This is a responsive webapp and so adjusts itself in mobile view.
 
 ## Screenshots
+<p align="center">
+<img width="700" height="400" src="React%20Home.PNG">
+ </p>
+ <br/>
+ <p align="center">
+<img width="700" height="400" src="React%20Bookmark.PNG">
+ </p>
