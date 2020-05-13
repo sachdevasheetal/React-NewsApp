@@ -1,0 +1,36 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Starting",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "author": "sheetal",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "concurrently": "^5.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "google-trends-api": "^4.9.0",
+    "react-autosuggest": "^9.4.3",
+    "react-icons": "^3.9.0",
+    "react-loadingg": "^1.7.2",
+    "react-responsive": "^8.0.3",
+    "react-router-dom": "^5.1.2",
+    "react-select": "^2.4.4",
+    "react-share": "^4.1.0",
+    "react-show-more": "^2.0.0",
+    "react-switch": "^5.0.1",
+    "react-toastify": "^5.5.0",
+    "react-truncate": "^2.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
