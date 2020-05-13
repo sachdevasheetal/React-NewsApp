@@ -1,0 +1,23 @@
+#check
+{
+  width: 250px;
+}
+.bg-custom-2 {
+background-image: linear-gradient(15deg,#00172D 0%, #0052A2 100%);
+}
+.navbar-dark .navbar-nav .nav-link:active .nav-link:link{
+
+   color:#f8f9fa;
+   font-weight:45px;
+}
+html {
+  overflow-y: scroll;
+}
+Nav.a:active
+{
+  color:pink!important;
+}
+.nav-link:hover
+{
+  color:white!important;
+}

@@ -1,0 +1,29 @@
+
+.pub_date
+{
+  float:left
+}
+.trunc
+{
+  text-align: justify;
+}
+
+.sharing
+{
+  float:right;
+}
+#testing{
+text-align: justify;
+}
+
+#more{
+  display: none;
+}
+.detailed {
+  scroll-behavior: smooth;
+  cursor: pointer;
+}
+.card-title-1
+{
+  font-size: 27px;
+}
