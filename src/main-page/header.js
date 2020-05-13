@@ -80,7 +80,7 @@ Business =() => {
     new Promise(resolve => {
       // alert('ssssss')
       setTimeout(() => {
-        resolve(this.handleSearchChange(inputValue, `666c5f534d4b4c56bc0c69b8283e994b`));//fast sonal
+        resolve(this.handleSearchChange(inputValue, ``));//Enter your microsoft bing autosuggest AppID
       }, 180);
     });
 
