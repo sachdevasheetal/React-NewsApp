@@ -1,4 +1,4 @@
-# React-NewsApp
+# NewsApp in React and Express
 
 ## Introduction
 A webapp to display top headlines for both New York Times and Guardian News. Based on the selection by the user, the top-headlines should be for any of the following domains – world, politics, business, technology and sports. Each such article can be shared by the user on Facebook, Twitter or via Email.The user can open up any of the article and have the option to share it on either Facebook or Twitter
